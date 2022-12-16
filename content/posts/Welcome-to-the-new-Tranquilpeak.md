@@ -31,12 +31,13 @@ Click [here]() to view the course outline.
 
 ## Writing: Thesis
 
-|[Slides](/slides/1_thesiswriting/main.html)    	|  [Reading](https://writingcenter.fas.harvard.edu/pages/developing-thesis) | [LaTex](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) 	|   Exercise 	|
+|[Slides](/slides/1_thesiswriting/main.html)    	|  [Reading](https://writingcenter.fas.harvard.edu/pages/developing-thesis) | [LaTex](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) 	|   Exercise -  	Select a data science and AI related paper from https://arxiv.org/ and write a review report on the Manuscript according to the review criteria at https://revistas.uma.es/index.php/ejfb/peer-review-process|
 |:-:	|:-:	|:-:	| :-:|
 
 ## Data visualization
 
-
+|[Slides](/static/slides/slides/lesson1viz.html)    	|  [Reading](https://www.interaction-design.org/literature/article/preattentive-visual-properties-and-how-to-use-them-in-information-visualization) | [Plotnine](https://plotnine.readthedocs.io/en/stable/) 	|   Exercise 	|
+|:-:	|:-:	|:-:	| :-:|
 
 ## Writing: Research Papers
 
