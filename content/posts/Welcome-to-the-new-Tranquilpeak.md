@@ -36,7 +36,7 @@ Click [here]() to view the course outline.
 
 ## Data visualization
 
-|[Slides](/slides/slides/lesson1viz.html)    	|  [Reading](https://www.interaction-design.org/literature/article/preattentive-visual-properties-and-how-to-use-them-in-information-visualization) | [Plotnine](https://plotnine.readthedocs.io/en/stable/) 	|   Exercise 	|
+|[Slides-1](/slides/slides/lesson1viz.html)  [Slides-2](/slides/slides/msc2.html)  	|  [Reading](https://www.interaction-design.org/literature/article/preattentive-visual-properties-and-how-to-use-them-in-information-visualization) | [Plotnine](https://plotnine.readthedocs.io/en/stable/) 	|   Exercise 	|
 |:-:	|:-:	|:-:	| :-:|
 
 ## Writing: Research Papers
