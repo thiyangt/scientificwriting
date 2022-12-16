@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>disqus on Hugo tranquilpeak theme</title>
+    <link>https://thiyanga-scientificwriting.netlify.app/tags/disqus/</link>
+    <description>Recent content in disqus on Hugo tranquilpeak theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://thiyanga-scientificwriting.netlify.app/tags/disqus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DSA  557 1.0  Scientific Writing and Communication</title>
+      <link>https://thiyanga-scientificwriting.netlify.app/2015/06/dsa-557-1.0-scientific-writing-and-communication/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://thiyanga-scientificwriting.netlify.app/2015/06/dsa-557-1.0-scientific-writing-and-communication/</guid>
+      <description>DSA 557 1.0 Scientific Writing and Communication is offered under MSc in Data Science (DS) and Artificial Intelligence (AI).
+The MSc in DS and AI at USJ was designed in partnership with the Erasmus+ DS and AI consortium, a group of 15 European and Asian organizations with the mission of bringing European-standard advanced education to Asia.
+Click here to view the course outline.
+Course content Writing: Thesis Slides Reading LaTex Exercise - Select a data science and AI related paper from https://arxiv.</description>
+    </item>
+    
+  </channel>
+</rss>
