@@ -1,0 +1,222 @@
+---
+title: "Literature survey/ Literature Review/ Literature Search"
+subtitle: ""  
+author: 
+  - "Dr Thiyanga S. Talagala"
+  - ""
+date: ''
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    nature:
+      slideNumberFormat: "%current%"
+      highlightStyle: github
+      highlightLines: true
+      ratio: 16:9
+      countIncrementalSlides: true
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  fig.width=9, fig.height=3.5, fig.retina=3,
+  out.width = "100%",
+  cache = FALSE,
+  echo = TRUE,
+  message = FALSE, 
+  warning = FALSE,
+  hiline = TRUE
+)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#081d58",
+  secondary_color = "#ce1256",
+  inverse_header_color = "#FFFFFF",
+  base_font_size = "20px",
+  text_font_size = "2rem"
+)
+```
+
+# What is the purpose of a literature review?
+
+- To learn what has already been done
+
+- To identify gaps and opportunities
+
+- To ensure you're not just repeating what others have already done
+
+- To familiarize yourself with the current state of knowledge on your topic
+
+---
+
+# When writing your thesis/ paper
+
+you should explain your reader how your work related to existing research and what new insights it will contribute.
+
+---
+
+# How can I access published research papers?
+
+-  Academic databases and search engines
+
+- Speak with the librarian at your institution to find out if you have access to any subscription databases
+
+---
+
+# Free databases/ search engines
+
+- [Google scholar](https://scholar.google.co.uk/)
+
+- [Directory of Open Access Journal (DOAJ)](https://doaj.org/)
+
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
+
+-  [Bielefeld Academic Search Engine (BASE)](https://www.base-search.net/)
+
+- [E-Theses Online Service (EThOS)](https://ethos.bl.uk/Home.do;jsessionid=C76F4980B7E2A7CC3504DF016BB66100)
+
+
+---
+
+# Free databases/ search engines
+
+
+- [Social Science Research Network (SSRN)](https://www.ssrn.com/index.cfm/en/)
+
+-  [WorldWideScience](https://worldwidescience.org/)
+
+- [Semantic Scholar](https://www.semanticscholar.org/) - “intelligent” academic search engine. Machine learning algorithm is used to prioritize the most important research
+
+- [Public Library of Science (PLOS)](https://plos.org/)
+
+<!--https://proofed.com/writing-tips/10-free-research-journal-databases/-->
+
+---
+
+# Free databases/ search engines
+
+
+
+- [Microsoft Academic Search](https://www.semanticscholar.org/topic/Microsoft-Academic-Search/432350)
+
+
+- [Dimensions](https://www.dimensions.ai/resources/type/publications/)
+
+---
+
+## Databases that are available through subscription
+
+- [Scopus](https://www.scopus.com/home.uri)
+
+- [Web of science](https://mjl.clarivate.com/search-results)
+
+For more information: https://guides.loc.gov/library-science/subscription-databases
+
+---
+
+If you can access the full text of a paper, it could be because of a number of reasons, for example
+
+- Open access
+
+- Authenticated user
+
+- Author-archived copy
+
+---
+
+# Dealing with paywalls
+
+- Speak with the librarian
+
+- Write to the corresponding author
+
+- Use unpaywall to see if there is an open access version of the full text of the paper
+
+---
+
+# What is unpaywall?
+
+Browser extension that will automatically point out full text or open-access version of research papers
+
+
+Example: https://unpaywall.org/
+
+---
+
+# Preprints and repositories
+
+- arXiv
+
+- bioRxiv
+
+- Institutional repositories
+
+- OpenDOAR website
+
+---
+
+## Research access initiatives
+
+- [Research4Life](https://www.research4life.org/about/programs/)
+
+Research4Life provides low- and middle-income countries with access to scientific and professional resources (for example research that is published in a wide range of journals, etc.) through five programs: Hinari, AGORA, OARE, ARDI and GOALI
+
+- [INASP](https://www.inasp.info/)
+
+---
+
+### Reading a research paper
+
+1. Is the content clear?
+
+2. What is the research question or hypothesis?
+
+3. Whether the methodology is clear, understandable, replicable and relevant to achieve the research question?
+
+4. Do methods corresponds with data analysis?
+
+5. Answer to the research question and hypothesis?
+
+---
+
+## Reading papers to identify opportunities
+
+
+1. What is my area of research?
+
+2. What is known so far?
+
+3. What is not known so far in this area?
+
+4. Which unknowns do I need to focus in my research?
+
+---
+
+## Identify relevant unkowns
+
+1. Why it is important to address a particular unkown or gap?
+
+2. What contribution will it make to the field?
+
+3. Do you have knowledge, expertise, equipments, time and budget to address the unkown?
+
+After that you can formulate your research question. It should be clear and specific.
+
+---
+
+## Question: Your turn
+
+1. What types of pesticides are honey bees likely to be exposed to in major crops?
+
+2. Are honey bees exposed to pesticides in major crops?
+
+3. What happened when bees are exposed to pesticides?
+
+---
+
+## Planning your literature review
+
+Visit here: https://writeonline.ca/litreview.php?content=section1

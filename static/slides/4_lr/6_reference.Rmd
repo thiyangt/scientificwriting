@@ -1,0 +1,62 @@
+---
+title: "Reference Management Software"
+subtitle: ""  
+author: 
+  - "Dr Thiyanga S. Talagala"
+  - ""
+date: ''
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    nature:
+      slideNumberFormat: "%current%"
+      highlightStyle: github
+      highlightLines: true
+      ratio: 16:9
+      countIncrementalSlides: true
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  fig.width=9, fig.height=3.5, fig.retina=3,
+  out.width = "100%",
+  cache = FALSE,
+  echo = TRUE,
+  message = FALSE, 
+  warning = FALSE,
+  hiline = TRUE
+)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#081d58",
+  secondary_color = "#ce1256",
+  inverse_header_color = "#FFFFFF",
+  base_font_size = "20px",
+  text_font_size = "2rem"
+)
+```
+
+
+## Reference Management Software
+
+- Mendeley
+
+- Zotero
+
+## Advantages
+
+- Keep a well-organized database of papers
+
+- Cite those papers easily during the writing
+
+---
+
+## Introduction to Mendeley
+
+In-class demonstration
+
+Visit here: https://www.mendeley.com/?interaction_required=true
