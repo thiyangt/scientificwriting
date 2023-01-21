@@ -79,6 +79,8 @@ Quarto installation: https://quarto.org/docs/get-started/
 
 [Reference Management Software]((/slides/4_lr/6_reference.html))
 
+[Writing mathematical equations/ proof](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2929880/pdf/nihms201118.pdf)
+
 ## Presentation skills
 
 [Example slides](https://thiyangt.github.io/RLadiesMLTS/index.html#1)
