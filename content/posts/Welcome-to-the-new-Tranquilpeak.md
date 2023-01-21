@@ -31,7 +31,7 @@ Click [here]() to view the course outline.
 
 ## Writing: Thesis/ Journal Articles
 
-![](guide.jpeg)
+![](/slides/4_lr/guide.jpeg)
 
 Source: [here](https://bluesyemre.com/2022/05/09/a-beginners-guide-on-how-to-write-a-journal-article-for-publication/)
 
