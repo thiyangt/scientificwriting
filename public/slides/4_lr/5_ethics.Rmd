@@ -1,0 +1,119 @@
+---
+title: "Research Ethics"
+subtitle: ""  
+author: 
+  - "Dr Thiyanga S. Talagala"
+  - ""
+date: ''
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    nature:
+      slideNumberFormat: "%current%"
+      highlightStyle: github
+      highlightLines: true
+      ratio: 16:9
+      countIncrementalSlides: true
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  fig.width=9, fig.height=3.5, fig.retina=3,
+  out.width = "100%",
+  cache = FALSE,
+  echo = TRUE,
+  message = FALSE, 
+  warning = FALSE,
+  hiline = TRUE
+)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#081d58",
+  secondary_color = "#ce1256",
+  inverse_header_color = "#FFFFFF",
+  base_font_size = "20px",
+  text_font_size = "2rem"
+)
+```
+
+
+## Ethical violations in research/ Research misconduct
+
+- Intentional plagiarism
+
+- Potential conflict of interest
+
+- Unintentional plagiarism
+
+- Data falsification
+
+- Data fabrication
+
+- Duplicate publication
+
+---
+
+## Ways of handling fraud
+
+- Rejected
+
+- Retracted
+
+Example:https://retractionwatch.com/retracted-coronavirus-covid-19-papers/
+
+---
+
+## Obtain research approval
+
+- Ethical Review Board
+
+---
+
+## Sharing data
+
+- Include all the data that is **relevant** to your research question
+
+- Data sharing: supplementary data, share data in a public domain
+
+- Check data sharing guidelines
+
+---
+
+## Ethics in writing
+
+- Give credit to others work
+
+- Disclose the limits on your information
+
+- Use credible sources (Peer-reviewed journals and academic textbooks are considered to be credible sources.)
+
+
+For more information: https://www.kent.edu/stark/ethical-writing-reliable-sources#:~:text=Ethical%20writing%20is%20writing%20with,racist%2C%20homophobic%2C%20etc.)
+
+---
+
+## Salami Slicing
+
+- Breaking up a large study into two or more publications
+
+---
+
+## Submitting to journals
+
+- Do not submit the paper to multiple journals at the same time.
+
+---
+## Other
+
+- Authorship order (Before asking for assistance, tell your colleague about the authorship or acknowledgement)
+
+- Supervisory authorship
+
+- Referencing
+
+- Conflict of interest
+
