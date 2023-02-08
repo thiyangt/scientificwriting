@@ -25,7 +25,7 @@ DSA  557 1.0  Scientific Writing and Communication is offered under MSc in Data 
 
 The MSc in DS and AI at USJ was designed in partnership with the Erasmus+ DS and AI consortium, a group of 15 European and Asian organizations with the mission of bringing European-standard advanced education to Asia.
 
-Click [here]() to view the course outline.
+Log in LMS at [http://lmsgraduate.sjp.ac.lk/](http://lmsgraduate.sjp.ac.lk/) to view the course outline.
 
 # Course content
 

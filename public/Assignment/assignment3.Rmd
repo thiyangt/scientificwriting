@@ -1,0 +1,94 @@
+---
+title: "DSA  557 1.0  Scientific Writing: Assignment 3"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Total marks: 40 marks**
+
+Assignment release date: **28 January 2023**
+
+Due date: **28 February 2023**
+
+Late submission:  I do not accept any submissions after 28 February 2023. 
+
+
+
+## Assignment description
+
+The goal in this assignment is to write a literature review paper (of approximately 1,500 words) on the topic of machine learning applications in medicine and health care.
+
+Use the list below as a guide when writing your review paper
+
+- An overview of the major applications in different fields in medicine and health care
+
+- A review of the approaches used in different applications
+
+- For each approach: discuss the problem(s) it addresses, methods used, theoretical
+foundation, the results of this approach, and any unresolved issues and study limitations.
+
+- A description of the challenges for future research.
+
+For assignment DO's and DONT's read https://www.cdu.edu.au/sites/default/files/academic-integrity/docs/checklist-plagiarism-2017.pdf
+
+**Format**
+
+Papers should be approximately 1,500 words (author information, title, abstract, and the list of
+references are excluded from the 1,500 word limit). Citations and references can be in any common
+format (APA, Chicago, or ACM are acceptable, for instance).
+
+## Submission
+
+Submit PDF file.
+
+Submit your files via LMS.
+
+## Marks
+
+1. Factual correctness, completeness of the answer, and accurate formatting and style of writing: 12
+
+2. Synthesis and critical analysis of the topic: 15
+
+3. Methodological explanation of the concepts: 13
+
+
+## Please note that
+
+
+**Late submissions are not permitted and extensions will be made in exceptional
+circumstances only.**
+
+## Requesting a deadline extension
+
+
+
+You are allowed to apply for a deadline extension for the assignment under the following conditions only.
+
+**Category A**
+
+An illness that requires the student to miss all of his or her classes for 2 days or more.
+
+**Category B**
+
+A period of grief for the loss of a family member or friend.
+
+**Category C**
+
+A family emergency.
+
+Valid documentation of proof is required prior to the assignment deadline.
+
+
+The philosophy driving our late policy has three goals
+
+- Keep things fair.
+
+- Encourage good time management.
+
+- Encouragement and appreciation of on-time submission students.
+
+
+
