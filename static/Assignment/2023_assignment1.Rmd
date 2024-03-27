@@ -1,0 +1,166 @@
+---
+title: "DSA  557 1.0  Scientific Writing and Communication: Assignment 1"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Total marks: 50 marks**
+
+Due date: **2 December 2023**
+
+**Objective:** To enhance students' skills in critically analyzing and presenting research articles in the field of data science and AI.
+
+**Instructions:**
+
+\begin{enumerate}
+
+\item Research article Selection:
+
+\begin{enumerate}
+  \item Choose a research article published in a reputable journal. conference proceedings or arXiv.org e-Print archive related to data science and AI.
+
+
+  \item Ensure the selected article covers key aspects such as Introduction, Literature Review, Methodology, Results, Discussion, and Conclusions.
+
+\end{enumerate}
+
+\item Presentation Preparation:
+
+
+\begin{enumerate}
+
+  \item Use Overleaf Beamer for preparing the presentation slides. If any other software is used, marks for this component will not be awarded.
+
+  \item Aim for a total presentation time of 8 minutes.
+
+  \item Presentation Structure:
+  
+  \begin{enumerate}
+
+  \item Introduction 
+
+  \item Literature Review 
+
+  \item Methodology
+
+  \item Results 
+
+  \item Discussion and Conclusions 
+
+  \item Your Review on the Paper 
+    
+  \item You are encouraged to incorporate additional components as needed for a comprehensive and insightful presentation
+    
+\end{enumerate}
+
+\end{enumerate}
+
+\end{enumerate}
+
+**Grading Criteria**
+
+\begin{enumerate}
+
+  \item  Use of Overleaf Beamer:
+
+\begin{enumerate}
+
+   \item Effective utilization of Overleaf Beamer.
+   
+  \item Consistency in formatting and style.
+
+  \item Proper integration of text, images, and data visualizations.
+  
+\end{enumerate}
+
+  \item Aesthetic Appearance, Clarity, and Flow:
+
+\begin{enumerate}
+    \item Professional and visually appealing design.
+    
+  \item Clarity in slide content and organization.
+    
+  \item Smooth flow from one section to another.
+
+\end{enumerate}
+
+  \item Content Coverage:
+
+\begin{enumerate}
+
+  \item Adequate coverage of each key point: Introduction, Literature Review, Methodology, Results, Discussion and Conclusions, Your Review.
+
+\end{enumerate}
+
+  \item Time Management:
+  
+\begin{enumerate}
+
+  \item Adherence to the 8-minute time limit.
+    
+  \item Balanced distribution of time across sections.
+
+\end{enumerate}
+
+\item Scientific Writing:
+
+\begin{enumerate}
+
+  \item Clarity and precision in language.
+
+  \item Proper citation of sources and references.
+
+  \item Logical organization of ideas and arguments.
+    
+\end{enumerate}
+
+\end{enumerate}
+
+## Submission:
+
+
+- Upload your presentation slides to the LMS
+
+- Presentation during the time allocated.
+
+
+## Please note that
+
+
+**Late submissions are not permitted and extensions will be made in exceptional
+circumstances only.**
+
+## Requesting a deadline extension
+
+
+
+You are allowed to apply for a deadline extension for the assignment under the following conditions only.
+
+**Category A**
+
+An illness that requires the student to miss all of his or her classes for 2 days or more.
+
+**Category B**
+
+A period of grief for the loss of a family member or friend.
+
+**Category C**
+
+A family emergency.
+
+Valid documentation of proof is required prior to the assignment deadline.
+
+
+The philosophy driving our late policy has three goals
+
+- Keep things fair.
+
+- Encourage good time management.
+
+- Encouragement and appreciation of on-time submission students.
+
+
+

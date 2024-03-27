@@ -1,0 +1,58 @@
+---
+title: "DSA  557 1.0  Scientific Writing and Communication: Assignment 1 ()"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Total marks: 50 marks**
+
+Assignment release date: **2 December 2023**
+
+Due date: **10 December 2023**
+
+Late submission:  I will not accept any submissions after December 15, 2023. A penalty is applied for submissions after December 10, 2023 (-2 marks for each day). 
+
+
+
+## Assignment description
+
+The goal in this assignment is to write a literature review paper (of approximately 1,500 words) on the topic of machine learning applications in medicine and health care.
+
+Use the list below as a guide when writing your review paper
+
+- An overview of the major applications in different fields in medicine and health care
+
+- A review of the approaches used in different applications
+
+- For each approach: discuss the problem(s) it addresses, methods used, theoretical
+foundation, the results of this approach, and any unresolved issues and study limitations.
+
+- A description of the challenges for future research.
+
+For assignment DO's and DONT's read https://www.cdu.edu.au/sites/default/files/academic-integrity/docs/checklist-plagiarism-2017.pdf
+
+**Format**
+
+Papers should be approximately 1,500 words (author information, title, abstract, and the list of
+references are excluded from the 1,500 word limit). Citations and references can be in any common
+format (APA, Chicago, or ACM are acceptable, for instance).
+
+## Submission
+
+Submit PDF file.
+
+Submit your files via LMS.
+
+## Marks
+
+1. Factual correctness, completeness of the answer, and accurate formatting and style of writing: 15
+
+2. Synthesis and critical analysis of the topic: 15
+
+3. Methodological explanation of the concepts: 20
+
+
+
